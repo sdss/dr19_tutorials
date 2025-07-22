@@ -5,7 +5,7 @@ This repo contains Jupyter Notebooks showing how to access various SDSS data pro
 If you encounter any issues, e.g., you're on a brand new operating system, feel free to file an issue.
 
 These Jupyter Notebook tutorials can be run remotely on [SciServer Compute](https://apps.sciserver.org/compute), with direct access to a file system hosting the DR 19 data volume.
-If you prefer, you can also download DR 19 files from https://data.sdss5.org/sas/dr19/ and run these notebooks locally in your own computer.
+If you prefer, you can also download DR 19 files from https://data.sdss.org/sas/dr19/ and run these notebooks locally in your own computer.
 
 #### In [SciServer Compute](https://apps.sciserver.org/compute), you will need to:
 
